@@ -1,9 +1,10 @@
 
 @import "tailwindcss";
 
-.btn {  
+/*
+.btn {
   background-color: var(--color-sky-500);
-  &:hover { 
-      background-color: var(--color-sky-100);  
-   } 
-}
+  &:hover {
+      background-color: var(--color-sky-100);
+   }
+}*/

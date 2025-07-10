@@ -268,12 +268,6 @@
     }
   }
 }
-.btn {
-  background-color: var(--color-sky-500);
-  &:hover {
-    background-color: var(--color-sky-100);
-  }
-}
 @property --tw-font-weight {
   syntax: "*";
   inherits: false;
