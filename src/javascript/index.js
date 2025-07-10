@@ -1,0 +1,1 @@
+export { default as variable} from './variable'
