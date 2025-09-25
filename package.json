@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tailwindcss": "npx @tailwindcss/cli  --watch",
+    "tailwindcss": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css  --watch",
     "lite-server": "lite-server"
   },
   "keywords": [],
